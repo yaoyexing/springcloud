@@ -67,5 +67,6 @@
 	</dependencyManagement>
 	<modules>
 		<module>microservicecloud-api</module>
+		<module>microservicecloud-provider-dept-8001</module>
 	</modules>
 </project>
